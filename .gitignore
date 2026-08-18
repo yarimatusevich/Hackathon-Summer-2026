@@ -1,3 +1,6 @@
 src/
 .idea/
 .venv/
+eda_summaries/
+hyperparameter_search_results/
+prediction/prediction_example.csv
